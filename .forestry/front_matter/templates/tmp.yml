@@ -1,0 +1,9 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: jjjjjjjjjjjjjjjj
+  label: sdasdasd
+  name: sdasdasadd
+  description: asdasdasdasd
